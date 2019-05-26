@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "App built following the Udemy course: `The Complete Node.js Developer Course (3rd Edition)` https://www.udemy.com/the-complete-nodejs-developer-course-2/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheaMeyers/node-notes-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheaMeyers/node-notes-app/issues"
+  },
+  "homepage": "https://github.com/SheaMeyers/node-notes-app#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
