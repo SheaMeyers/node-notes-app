@@ -2,15 +2,6 @@ const chalk = require('chalk')
 const yargs = require('yargs')
 const notes = require('./notes.js')
 
-// 
-// Goal: Wire up list command
-//
-// 1. Create and export listNotes from notes.js
-// - "Your notes" using chalk
-// - Print note title for each note
-// 2. Call listNotes from command handler
-// 3. Test your work!
-
 // Customize yargs version
 yargs.version('1.1.0')
 
